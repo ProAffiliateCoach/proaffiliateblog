@@ -1,13 +1,23 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: Pro Affiliate Coach
+description: Welcome to Pro Affiliate Coach official website, a valuable
+  resource hub for affiliate marketers seeking success and growth. We are
+  dedicated to providing you with insightful and actionable blogs that cover a
+  wide range of topics related to affiliate marketing. Whether you're a beginner
+  looking for guidance or an experienced marketer aiming to enhance your
+  strategies, our blog offers expert advice, practical tips, industry updates,
+  and proven techniques to help you optimize your affiliate marketing endeavors.
+  Stay ahead of the curve, refine your skills, and unlock your earning potential
+  with our comprehensive collection of blog posts tailored specifically for
+  affiliate marketers. Start your journey towards affiliate marketing excellence
+  today!
+footer_text: Copyright 2023 Pro Affiliate Coach
+header_feature_image: ../uploads/pro-affiliate-marketing-banner.png
+header_text: Affiliate Marketing Blogs
 header_text_color: "#ffffff"
-footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-navbarheight: "55px"
+bannerheight: 20vmax
+navbarheight: 55px
+logo: ../uploads/affiliate-marketing-coach.png
+favicon: ""
 gridlayout: false
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-upzoom: true
 fixednavbar: false
+upzoom: true
