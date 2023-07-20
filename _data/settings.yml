@@ -17,7 +17,7 @@ header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
 logo: ../uploads/affiliate-marketing-coach.png
-favicon: ""
-gridlayout: false
-fixednavbar: false
+favicon: ../uploads/affiliate-marketing-icon.png
+gridlayout: true
+fixednavbar: true
 upzoom: true
