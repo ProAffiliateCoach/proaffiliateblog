@@ -6,8 +6,11 @@ image: ../uploads/lazy-commissions-pre-launch.jpg
 title_color: "#ffffff"
 caption: Reviews of Lazy Commissions
 comments: false
+tags:
+  - Education
+  - Work
 ---
-## **Lazy Commissions Review:**
+
 
 Welcome to my authentic evaluation of Lazy Commissions, created by the renowned vendor Tim Ikels.
 
