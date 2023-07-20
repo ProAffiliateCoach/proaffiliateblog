@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lazy Commissions Affiliate Training review
+title: Lazy Commissions Affiliate Training review (Make $100/day or Scam)
 date: 2023-07-19T20:00:59.840Z
 image: ../uploads/lazy-commissions-pre-launch.jpg
 title_color: "#ffffff"
